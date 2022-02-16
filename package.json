@@ -1,0 +1,23 @@
+{
+  "name": "hola-cipres",
+  "version": "1.0.0",
+  "description": "Sandbox repo for cypress learning",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MigPalSer/hola-cipres.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MigPalSer/hola-cipres/issues"
+  },
+  "homepage": "https://github.com/MigPalSer/hola-cipres#readme",
+  "dependencies": {
+    "cypress": "^3.8.3"
+  }
+}
