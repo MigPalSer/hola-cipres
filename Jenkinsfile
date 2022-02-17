@@ -23,7 +23,7 @@ pipeline {
 
  stage('cipres test') {
             steps {
-            sh "nodenv 14.18.2"
+            sh "/home/gftadmin/.nodenv/bin/nodenv 14.18.2"
             	sh "npm run test"
 		
             }
