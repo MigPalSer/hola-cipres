@@ -1,5 +1,9 @@
 *.bak
 
+/cypress/videos/
+
+# plantila gitignore para node
+
 # Logs
 logs
 *.log
